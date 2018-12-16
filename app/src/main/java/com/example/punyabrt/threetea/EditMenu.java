@@ -39,7 +39,7 @@ public class EditMenu extends AppCompatActivity {
 
         tNameEditText = findViewById(R.id.rename_editText);
         tPriceEditText = findViewById(R.id.reprice_editText);
-        tlocationEditText = findViewById(R.id.reprice_editText);
+        tlocationEditText = findViewById(R.id.relocation_editText);
         tSaveButton = findViewById(R.id.save_button);
 
         tNameEditText.setText(name);

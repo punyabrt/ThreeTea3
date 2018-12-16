@@ -46,7 +46,7 @@
     <EditText
         android:id="@+id/locationitem_editText"
         android:layout_width="351dp"
-        android:layout_height="113dp"
+        android:layout_height="62dp"
         android:layout_marginBottom="168dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
